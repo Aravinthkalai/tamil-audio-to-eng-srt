@@ -1,0 +1,272 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hello everyone, in this video we are going to see about impedance and reactance of capacitors
+
+2
+00:00:05,000 --> 00:00:08,000
+Let's see the first definition
+
+3
+00:00:08,000 --> 00:00:14,000
+The flow of AC current in a capacitor is limited or restricted by internal impedance of capacitor
+
+4
+00:00:14,000 --> 00:00:17,000
+Also known as capacitive reactance
+
+5
+00:00:17,000 --> 00:00:23,000
+When we apply AC current to a capacitor, the capacitor will not allow all the current applied through it
+
+6
+00:00:23,000 --> 00:00:26,000
+It will restrict the current coming through it
+
+7
+00:00:26,000 --> 00:00:29,000
+This is called capacitive reactance
+
+8
+00:00:29,000 --> 00:00:32,000
+The symbol of capacitive reactance is Xe
+
+9
+00:00:32,000 --> 00:00:37,000
+Its unit is Ohms
+
+10
+00:00:37,000 --> 00:00:40,000
+The formula for calculating capacitive reactance is
+
+11
+00:00:40,000 --> 00:00:44,000
+Xe is equal to 1 divided by 2 pi Fc
+
+12
+00:00:44,000 --> 00:00:48,000
+Xe is the capacitive reactance measured in Ohms
+
+13
+00:00:48,000 --> 00:00:51,000
+F is the applied frequency
+
+14
+00:00:51,000 --> 00:00:54,000
+C is the capacitance of capacitor
+
+15
+00:00:54,000 --> 00:00:58,000
+Capacitive reactance is the resistance inside the capacitor
+
+16
+00:00:58,000 --> 00:00:59,000
+Capacitive reactance is the resistance inside the capacitor
+
+17
+00:00:59,000 --> 00:01:01,000
+But Capacitive reactance doesn't have any constant
+
+18
+00:01:01,000 --> 00:01:07,000
+Capacitive reactance is change because of bullied resistance
+
+19
+00:01:07,000 --> 00:01:12,000
+I.e. Capacitive reactance is not a constant
+
+20
+00:01:12,000 --> 00:01:14,000
+The resistance is getting diminished by applying resistance
+
+21
+00:01:14,000 --> 00:01:17,000
+Take an example of a circuit
+
+22
+00:01:17,000 --> 00:01:20,000
+The capacitor is present in AC supply
+
+23
+00:01:20,000 --> 00:01:22,000
+Let's check the graph
+
+24
+00:01:22,000 --> 00:01:26,000
+The resistance of capacitor is being changed by applying resistance
+
+25
+00:01:26,000 --> 00:01:27,000
+In this graph
+
+26
+00:01:27,000 --> 00:01:28,000
+Let's check the graph
+
+27
+00:01:28,000 --> 00:01:32,599
+we have taken frequency in x-axis and capacitive reactance in y-axis
+
+28
+00:01:32,599 --> 00:01:35,900
+so initially when the frequency is low
+
+29
+00:01:35,900 --> 00:01:38,900
+the capacitive reactance will be very high
+
+30
+00:01:38,900 --> 00:01:43,200
+when we increase the frequency, the reactance value will decrease
+
+31
+00:01:43,200 --> 00:01:49,200
+that is, the AC frequency applied across the capacitance is 0 Hz
+
+32
+00:01:49,200 --> 00:01:52,200
+that is, if we give 0 Hz to the capacitance
+
+33
+00:01:52,200 --> 00:01:55,200
+we can see in the formula, x is equal to 1 by 2 pi fc
+
+34
+00:01:55,200 --> 00:01:58,200
+if the frequency is 0, 1 by 0 is infinity
+
+35
+00:01:58,200 --> 00:02:02,200
+so the capacitance of the capacitor will be very high
+
+36
+00:02:02,200 --> 00:02:05,200
+if the resistance is high, the current will be 0
+
+37
+00:02:05,200 --> 00:02:08,199
+if the frequency is infinity, if we substitute in the formula
+
+38
+00:02:08,199 --> 00:02:11,199
+1 by 2 pi infinity into c
+
+39
+00:02:11,199 --> 00:02:14,199
+1 by infinity will be 0
+
+40
+00:02:14,199 --> 00:02:16,199
+so the capacitive reactance is 0
+
+41
+00:02:16,199 --> 00:02:19,199
+if we see how it behaves, it will behave like a short circuit
+
+42
+00:02:19,199 --> 00:02:21,199
+so the current will flow maximally
+
+43
+00:02:21,199 --> 00:02:24,199
+next, let us see the example of the reactance of capacitor
+
+44
+00:02:24,199 --> 00:02:25,199
+here, I have taken 2 capacitors
+
+45
+00:02:25,199 --> 00:02:27,199
+I have taken 229 F capacitor
+
+46
+00:02:27,199 --> 00:02:30,199
+when applying 1 kHz frequency and 20 kHz frequency for that
+
+47
+00:02:30,199 --> 00:02:35,199
+we are going to see the value of the capacitive reactance across the capacitor
+
+48
+00:02:35,199 --> 00:02:37,199
+so in the image on the left side
+
+49
+00:02:37,199 --> 00:02:39,199
+229 F is equal to 1 kHz
+
+50
+00:02:39,199 --> 00:02:43,199
+on the right side, the same 229 F capacitor is equal to 20 kHz
+
+51
+00:02:43,199 --> 00:02:46,199
+we know the formula for calculating the reactance of capacitor
+
+52
+00:02:46,199 --> 00:02:48,199
+x is equal to 1 by 2 pi fc
+
+53
+00:02:48,199 --> 00:02:51,199
+1 by 2 pi into f is 1 kHz
+
+54
+00:02:51,199 --> 00:02:54,199
+into c is 229 F
+
+55
+00:02:54,199 --> 00:02:57,199
+to calculate this, we get 723.4 ohms
+
+56
+00:02:57,199 --> 00:03:01,199
+so the value of the capacitive reactance is 723.4 ohms
+
+57
+00:03:01,199 --> 00:03:03,199
+that is, the resistance of the capacitor
+
+58
+00:03:03,199 --> 00:03:07,199
+now, let us calculate the capacitive reactance of the circuit on the right side
+
+59
+00:03:07,199 --> 00:03:10,199
+in the same formula, 1 by 2 pi f
+
+60
+00:03:10,199 --> 00:03:13,199
+the frequency value is 20 kHz
+
+61
+00:03:13,199 --> 00:03:15,199
+to solve this, we get 36.2 ohms
+
+62
+00:03:15,199 --> 00:03:20,199
+that is, the current reactance of the capacitor is 36.2 ohms
+
+63
+00:03:20,199 --> 00:03:22,199
+from this, we can confirm that
+
+64
+00:03:22,199 --> 00:03:24,199
+when the frequency is less
+
+65
+00:03:24,199 --> 00:03:29,199
+the resistance across the capacitor will be more
+
+66
+00:03:29,199 --> 00:03:31,199
+when the frequency is more
+
+67
+00:03:31,199 --> 00:03:36,199
+the resistance across the capacitor will be less
+
+68
+00:03:36,199 --> 00:03:37,199
+thank you
+
